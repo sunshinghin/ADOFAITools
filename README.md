@@ -1,6 +1,8 @@
 # ADOFAITools
 A repo contain bunch of useful python script to help you do many thing in ADOFAI (A dance of fire and ice)
 
+# The web version is here!
+
 ## Requirement:
 1. Python >= 3.9
 2. os package (import os)
@@ -19,6 +21,12 @@ This can help you play newer level in older ADOFAI such as mobile ADOFAI editor 
 4. Enter your version in the console that you want to change to (e.g. 6)
 5. Convert complete!
 
+### OR (Web version)(Easier)
+
+1. Go to the replit of this repo [Repl.it](https://replit.com/@sunshinghin3/ADOFAITools)
+2. Run the webServer.py file
+3. Go into the pop up screen and to the convertion!
+ 
 ### Import map
 
 This can help you import level without searching through the folder
@@ -45,10 +53,6 @@ You can also customize your folder path to anything you want
 (var)path = higher version folder
 (var)outputpath = output folder
 (var)importLevelpath = import level folder
-
-## Planning
-
--Website version
 
 ## Notes
 
