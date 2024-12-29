@@ -8,6 +8,19 @@ A repo contain bunch of useful python script to help you do many thing in ADOFAI
 2. os package (import os)
 3. re package (import re)
 4. shutil package (import shutil)
+5. flask package (import flask)
+6. wtforms package (import wtforms)
+
+## Installation
+
+If you didn't install these package.Run these command in your cmd(or VS Code terminal)
+
+```bash
+pip3 install flask
+```
+```bash
+pip3 install wtforms
+```
 
 ## Usage:
 
