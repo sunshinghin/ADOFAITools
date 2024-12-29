@@ -47,7 +47,7 @@ while valid == False:
 
   else:
 
-    print("Version cannot be smalle than 0.Please type again!\n")
+    print("Version cannot be smaller than 0.Please type again!\n")
 
 for file in dir_list:
   
