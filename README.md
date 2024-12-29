@@ -2,9 +2,9 @@
 A system convert new version of ADOFAI map to old version.Fix "The level require higher version problem" in cracked ADOFAI mobile edior or PC ADOFAI
 
 ## Requirement:
--Python >= 3.9
--os package (import os)
--re package (import re)
+1. Python >= 3.9
+2. os package (import os)
+3. re package (import re)
 
 ## Usage:
 
