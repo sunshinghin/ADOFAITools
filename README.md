@@ -24,11 +24,15 @@ A repo contain bunch of useful python script to help you do many thing in ADOFAI
 3. Run the importLevel.py file
 4. Choose a mode(easy/advanced)
 5. Enter your dummy level steam id
-6. 
+
+![Example](./images/steamidIntru.png)
+
+6. (ONLY ADVANCED MODE) Enter your drive that ADOFAI is installed
+7. Import complete!
 
 ## Online execution
 
-This project is running live on repl.it! You can also use it here: [Repl.it](https://replit.com/@sunshinghin3/ConvertToOldVersion)
+This project is running live on repl.it! You can also use it here: [Repl.it](https://replit.com/@sunshinghin3/ADOFAITools)
 
 ## Edit(Advanced)
 
@@ -36,7 +40,7 @@ You can also customize your folder path to anything you want
 
 (var)path = higher version folder
 (var)outputpath = output folder
-
+(var)importLevelpath = import level folder
 
 ## Planning
 
